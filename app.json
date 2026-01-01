@@ -13,7 +13,8 @@
       "backgroundColor": "#1A1A1A"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.blackaep.repertoire"
     },
     "android": {
       "adaptiveIcon": {
